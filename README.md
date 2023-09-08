@@ -77,7 +77,7 @@ You can customize this music player by adding your own songs. To do this, follow
 - **HTML**: Used for structuring the web page and its elements.
 - **CSS**: Used for styling the music player and making it visually appealing.
 - **JavaScript**: Used for implementing the functionality of the music player.
-- **GitHub**: Hosted the project repository and provided a platform for collaboration.
+- **GitHub**: The codebase is hosted and shared on GitHub.
 - **Netlify**: Deployed the live demo of the music player.
 
 
