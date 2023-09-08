@@ -12,7 +12,7 @@
   - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
-
+- [Technologies Used](#technologies-used)
 
 ## Overview
 
@@ -71,6 +71,14 @@ You can customize this music player by adding your own songs. To do this, follow
      // Add more songs here
    ];
 4. Open index.html in your browser to enjoy your custom music player.
+
+## Technologies Used
+
+- HTML: Used for structuring the web page and its elements.
+- CSS: Used for styling the music player and making it visually appealing.
+- JavaScript: Used for implementing the functionality of the music player.
+- GitHub: Hosted the project repository and provided a platform for collaboration.
+- Netlify: Deployed the live demo of the music player.
 
 
 
