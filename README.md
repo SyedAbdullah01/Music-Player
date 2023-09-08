@@ -2,6 +2,18 @@
 
 ![Music Player Screenshot](music-player-screenshot.png)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+
+
 ## Overview
 
 This music player is a simple and stylish web application created using HTML, CSS, and JavaScript. It provides an intuitive interface for playing music tracks, complete with features like play/pause controls, track navigation, and progress tracking. The player's responsive design ensures it's accessible across various devices and screen sizes.
